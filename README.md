@@ -55,5 +55,3 @@ Contributions are welcome! If you have any ideas, suggestions, or improvements, 
 
 This project is licensed under the [MIT License](LICENSE).
 ```
-
-You can place this content in a file named `README.md` in the root directory of your project.
